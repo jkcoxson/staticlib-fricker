@@ -1,5 +1,5 @@
 [package]
-name = "staticlib-fucker"
+name = "staticlib-fricker"
 version = "0.1.0"
 edition = "2024"
 description = "A utility for mangling names in static object files. Mainly useful for leakage of non-exported symbols in Rust static libraries."
